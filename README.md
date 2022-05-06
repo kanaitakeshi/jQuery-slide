@@ -1,4 +1,5 @@
 # jQuery-slide
+### https://kanaitakeshi.github.io/jQuery-slide/
 
 ### スライドを作る  
 - eqメソッド
